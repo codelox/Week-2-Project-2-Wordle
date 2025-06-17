@@ -4,7 +4,7 @@ Submitted by: **Jay Boghawala**
 
 **Wordle**  is an app where we have to guess a five-letter word, receiving feedback through colored tiles that indicate correct letters and their placement.
 
-Time spent: **6** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
